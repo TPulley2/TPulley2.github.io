@@ -1,0 +1,45 @@
+Outline
+
+    Pages
+        Main
+
+        Bio
+
+        Applets
+
+        Database
+
+        Mini Games
+
+        Projects
+            Aero
+
+
+    Effects and Cool Things
+        Unique Icons
+        Transistions
+        Hover and mouse affects
+
+
+
+
+Main Features
+
+    Database Extras
+
+
+
+
+
+    Tools
+
+
+
+
+
+    Games
+
+
+
+
+
